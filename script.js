@@ -106,7 +106,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     let selectedGame = null;
 
-    SIBZ Airdrop.addEventListener('click', () => {
+    SIBZ Airdrop.addEventListener('click', () => {SIBZ Airdrop}
         window.open('https://https://t.me/sibz_airdrop', '_blank');
     });
     
