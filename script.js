@@ -106,8 +106,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
     let selectedGame = null;
 
-    sourceCode.addEventListener('click', () => {
-        window.open('https://github.com/ShafiqSadat/HamsterKeyGenWeb', '_blank');
+    SIBZ Airdrop.addEventListener('click', () => {
+        window.open('https://https://t.me/sibz_airdrop', '_blank');
     });
     
 gameOptions.forEach(option => {
